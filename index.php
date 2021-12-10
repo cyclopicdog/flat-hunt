@@ -1,4 +1,3 @@
 <?php
 
-
-include 'main.php';
+include ('./views/page-wrapper.php');
