@@ -16,6 +16,9 @@ include ('./views/header.php');
   <?php 
   include ('./views/forms/add-flat-form.php');
   ?>
+  <?php
+  include ('./views/flats-viewed.php');
+  ?>
 </main>
 </body>
 </html>
